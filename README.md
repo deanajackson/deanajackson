@@ -6,7 +6,7 @@
 
 <h2> What I love :deciduous_tree:</h2>
 <ul> 
-  <li>Making second language education more widely accessible and more geared towards how language is acutually aquired. </li>
+  <li>Making second language education more widely accessible and more geared towards how language is actually aquired. </li>
   <li>Brainstorming new ways to do the above.</li>
   <li>Learning new languages both human and programming. :wink: </li>
  </ul>
