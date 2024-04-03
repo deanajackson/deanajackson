@@ -2,11 +2,11 @@
 
 <h2> About me :flashlight:</h2>
 <p>I started my path in second language education and curriculum development. I believe that everyone should speak/understand at least two languages and that technology can help us make that a reality. <p>
-<p>I work full time as a digital learning specialist. While working I had been taking classes in Java programing and web application development. I earned an AAS in CIS in 2021. I loved it and decided to pursue a master's in computer science emphasizing software development. </p>
+<p>I work full-time as a learning analyst. While working I had been taking classes in Java programming and web application development. I earned an AAS in CIS in 2021. I loved it and decided to pursue a master's in computer science emphasizing data and databases. </p>
 
 <h2> What I love :deciduous_tree:</h2>
 <ul> 
-  <li>Making second language education more widely accessible and more geared towards how language is actually aquired. </li>
+  <li>Making second language education more widely accessible and more geared towards how language is actually acquired. </li>
   <li>Brainstorming new ways to do the above.</li>
   <li>Learning new languages both human and programming. :wink: </li>
  </ul>
